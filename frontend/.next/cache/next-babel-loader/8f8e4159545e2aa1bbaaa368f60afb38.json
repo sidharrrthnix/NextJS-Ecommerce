@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./index.js\";","map":{"version":3,"sources":["/Users/sid/Js/New/Insta/store-gql/Advanced-React-master/sick-fits/frontend/pages/products/[page].js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,YAAxB","sourcesContent":["export { default } from \"./index.js\";\n"]},"metadata":{},"sourceType":"module"}

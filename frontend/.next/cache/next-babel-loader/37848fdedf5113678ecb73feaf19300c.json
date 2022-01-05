@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function formatMoney(amount = 0) {\n  const formatter = Intl.NumberFormat(\"en-UK\", {\n    style: \"currency\",\n    currency: \"GBP\",\n    minimumFractionDigits: amount % 100 === 0 ? 0 : 2\n  });\n  return formatter.format(amount / 100);\n}","map":null,"metadata":{},"sourceType":"module"}

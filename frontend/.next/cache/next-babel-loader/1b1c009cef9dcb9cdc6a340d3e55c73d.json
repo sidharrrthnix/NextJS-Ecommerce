@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\n/* eslint-disable arrow-body-style */\nvar AccountPage = function AccountPage() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"LS\"\n  });\n};\n\nexport default AccountPage;","map":null,"metadata":{},"sourceType":"module"}
